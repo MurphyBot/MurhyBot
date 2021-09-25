@@ -4,7 +4,7 @@
 -------
 <h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Rafasurya </h1>
 <p align="center">
-  <img src="https://telegra.ph/file/4afe31fbe08ab5c793931.jpg" /></>
+  <img src="https://camo.githubusercontent.com/c14b0f7943bc9e5158459910d544e2811ec231170c7271868cc7792639e981a9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63342f63362f66622f63346336666230343639663232376134643239376336383035396463393530642e6a7067" /></>
 </p>
 
 -  My name is Rafasurya 
